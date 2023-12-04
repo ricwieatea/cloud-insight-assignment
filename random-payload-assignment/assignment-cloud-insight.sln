@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assignment-cloud-insight", "assignment-cloud-insight.csproj", "{5EC0F05B-404F-42C5-B8D7-74EA322A8129}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weather-assignment", "weather-assignment\weather-assignment.csproj", "{81E488B7-74E5-402C-8195-E1CC5645C564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cloud-insight-assignment-test", "..\cloud-inishgt-assignment-test\cloud-insight-assignment-test.csproj", "{DBA68EC9-F031-4F7E-AD86-38C86EE2F73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EC0F05B-404F-42C5-B8D7-74EA322A8129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC0F05B-404F-42C5-B8D7-74EA322A8129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC0F05B-404F-42C5-B8D7-74EA322A8129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC0F05B-404F-42C5-B8D7-74EA322A8129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E488B7-74E5-402C-8195-E1CC5645C564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E488B7-74E5-402C-8195-E1CC5645C564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E488B7-74E5-402C-8195-E1CC5645C564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E488B7-74E5-402C-8195-E1CC5645C564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA68EC9-F031-4F7E-AD86-38C86EE2F73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA68EC9-F031-4F7E-AD86-38C86EE2F73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA68EC9-F031-4F7E-AD86-38C86EE2F73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA68EC9-F031-4F7E-AD86-38C86EE2F73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD24B64E-B918-4ADE-B664-1601F9A5C6D9}
+	EndGlobalSection
+EndGlobal

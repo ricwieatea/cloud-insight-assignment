@@ -1,0 +1,14 @@
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\bin\Debug\net6.0\CloudInsightAssignment.exe
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\bin\Debug\net6.0\CloudInsightAssignment.deps.json
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\bin\Debug\net6.0\CloudInsightAssignment.runtimeconfig.json
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\bin\Debug\net6.0\CloudInsightAssignment.dll
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\bin\Debug\net6.0\CloudInsightAssignment.pdb
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.AssemblyInfoInputs.cache
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.AssemblyInfo.cs
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.csproj.CoreCompileInputs.cache
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.dll
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\refint\CloudInsightAssignment.dll
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.pdb
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\CloudInsightAssignment.genruntimeconfig.cache
+C:\dev\CloudInsightAssignment\CloudInsightAssignment\CloudInsightAssignment\obj\Debug\net6.0\ref\CloudInsightAssignment.dll

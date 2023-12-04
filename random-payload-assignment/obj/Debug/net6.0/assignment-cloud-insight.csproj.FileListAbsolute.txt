@@ -1,0 +1,9 @@
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.csproj.AssemblyReference.cache
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.AssemblyInfoInputs.cache
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.AssemblyInfo.cs
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.csproj.CoreCompileInputs.cache
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.RazorAssemblyInfo.cache
+C:\dev\assignment-cloud-insight\obj\Debug\net6.0\assignment-cloud-insight.RazorAssemblyInfo.cs

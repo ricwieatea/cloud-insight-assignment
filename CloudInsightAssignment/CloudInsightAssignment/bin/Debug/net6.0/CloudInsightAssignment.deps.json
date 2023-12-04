@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CloudInsightAssignment/1.0.0": {
+        "runtime": {
+          "CloudInsightAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CloudInsightAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
